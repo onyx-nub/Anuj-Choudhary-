@@ -15,6 +15,8 @@
 
 127.0.0.1  localhost
 ::1  localhost
+127.0.0.1       hobby.porn
+127.0.0.1       xxxfollow.com
 127.0.0.1       anyxxx.me
 127.0.0.1       redwap-xxx.com
 127.0.0.1       hubetubex.com
